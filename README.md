@@ -3,7 +3,7 @@
 ## PERÍODO: 2017-2023 (FRECUENCIA MENSUAL)
 > La base datos recoge 78 observaciones de las reservas bancarias del Ecuador en millones de dólares, la data fue obtenida del Banco Central del Ecuador
 
-## LIBRERÍAS
+### LIBRERÍAS
 ------------
 library(openxlsx)
 
@@ -14,6 +14,14 @@ library(forecast)
 library(urca)
 
 ------------
+
+### FUNCIONES
+------------
+read.xlsx 
+> Permite leer la base de datos
+
+------------
+
 
 
 <p align="center">
