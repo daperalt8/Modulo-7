@@ -52,3 +52,5 @@ accuracy() y Box.test()
 <p align="center">
   <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot.png" alt="RESERVAS BANCARIAS DEL ECUADOR, Visualización con HCHART">
 </p>
+
+> Las reservas bancarias del Ecuador no se comporta como una señal estacionaria en sentido débil, claramente se observa que si se divide la gráfica en el año 2019, las medias y las varianzas en los dos períodos será distinto, por lo que podría concluir que no es serie estacionaria en sentido débil.
