@@ -227,3 +227,15 @@ accuracy() y Box.test()
 </p>
 
 > El Box-Ljung test demuestran que los residuos del modelo (12,1,0) son independientes, es decir que son ruído blanco, esto quiere decir que mi modelo es aceptable.
+
+#### ACF y PACF de los Residuos
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot04.png" alt="Mejor Modelo">
+</p>
+
+#### Gráfico del Modelo
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot05.png" alt="Mejor Modelo">
+</p>
+
+> El gráfico del Modelo indican que es bueno, se observan todos los puntos dentro del círculo unitario
