@@ -249,3 +249,19 @@ accuracy() y Box.test()
 <p align="center">
   <img src="https://github.com/daperalt8/Modulo-7/blob/main/Proyecciones.jpeg" alt="Mejor Modelo">
 </p>
+
+#### AUTOARIMA
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Autoarima.jpeg" alt="Mejor Modelo">
+</p>
+
+> El software sugiere realizar un modelo arima(12,1,1) sin embargo se puede visualizar la funcion de autocorrelación simple y parcial de los residuos del modelo autoarima que no se comportan como ruído blanco, algunas barritas están sobre las cotas
+
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot08.png" alt="a">
+</p>
+
+#### SERIE ORIGINAL, ARIMA Y AUTO-ARIMA
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot07.png" alt="a">
+</p>
