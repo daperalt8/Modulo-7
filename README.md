@@ -220,3 +220,10 @@ accuracy() y Box.test()
 
 #### MAPE (error) bajo de 6%, MAE de 341.5442 aceptable, considerando que las reservas bancarias están en millones de dólares, RMSE aceptable de 443.3595, ya que el RMSE expresa la verdadera diferencia entre el valor ajustado y el observado, es bajo considerando que la variable en estudio está en millones de dólares.
 
+#### Residuos independientes
+
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Residuos.jpeg" alt="Mejor Modelo">
+</p>
+
+> El Box-Ljung test demuestran que los residuos del modelo (12,1,0) son independientes, es decir que son ruído blanco, esto quiere decir que mi modelo es aceptable.
