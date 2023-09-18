@@ -38,6 +38,7 @@ Arima(), auto.arima()
 accuracy() y Box.test()
 > Evaluar el modelo arima (p,d,q)
 
+
 ------------
 
 
