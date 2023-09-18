@@ -215,5 +215,5 @@ accuracy() y Box.test()
 ### Mejor Modelo: Arima(ts_reservas,order = c(12,1,0))
 
 <p align="center">
-  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot03.png" alt="RESERVAS BANCARIAS DEL ECUADOR, Visualización con HCHART">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Modelo 3.png" alt="Mejor Modelo">
 </p>
