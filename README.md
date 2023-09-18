@@ -26,6 +26,18 @@ diff()
 hchart()
 > Mejora el gráfico de una serie de tiempo
 
+acf() y acp()
+> Función de autocoreelación simple y parcial
+
+ur.df(), ur.pp(), ur.kpss y ur.ers
+> Permiten contrastar la hipótesis de estacionariedad
+
+Arima(), auto.arima()
+> Modelo Arima de orden (p,d,q)
+
+accuracy() y Box.test()
+> Evaluar el modelo arima (p,d,q)
+
 ------------
 
 
