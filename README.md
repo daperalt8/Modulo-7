@@ -20,14 +20,19 @@ library(urca)
 ------------
 read.xlsx()
 > Permite leer la base de datos en formato xlsx
+
 ts()
 > Transforma una variable en serie de tiempo
+
 plot(stl())
 > Permite hacer gráficos de la serie de tiempo, permite observar señal original, estacional, tendencial y estocástica
+
 diff()
 > Permite diferenciar una serie de tiempo
+
 hchart()
 > Mejora el gráfico de una serie de tiempo
+
 ------------
 
 
