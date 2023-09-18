@@ -239,3 +239,13 @@ accuracy() y Box.test()
 </p>
 
 > El gráfico del Modelo indican que es bueno, se observan todos los puntos dentro del círculo unitario
+
+### PROYECCIONES DE LA RESERVA BANCARIA (JULIO-AGOSTO-SEPTIEMBRE-OCTUBRE)
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot06.png" alt="Mejor Modelo">
+</p>
+
+#### 4 Proyecciones
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Proyecciones.jpeg" alt="Mejor Modelo">
+</p>
