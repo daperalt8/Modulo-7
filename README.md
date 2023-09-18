@@ -55,3 +55,9 @@ accuracy() y Box.test()
 
 
 > Las reservas bancarias del Ecuador no se comporta como una señal estacionaria en sentido débil, claramente se observa que si se divide la gráfica en el año 2019, las medias y las varianzas en los dos períodos será distinto, por lo que podría concluir que no es serie estacionaria en sentido débil.
+
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot02.png" alt="RESERVAS BANCARIAS DEL ECUADOR, Visualización con HCHART">
+</p>
+
+> Las reservas bancarias no se comporta como una señal estacionaria en sentido débil por lo que podría traer problemas al momento de crear un modelo ARMA, para mitigar el problema  aplicamos la primera diferencia y se observa que al parecer la señal se vuelve estacionaria en sentido débil, lo que indica que al momento de simular mi Modelo Arima (p,d,q) debería usar la primera diferencia
