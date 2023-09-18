@@ -217,3 +217,6 @@ accuracy() y Box.test()
 <p align="center">
   <img src="https://github.com/daperalt8/Modulo-7/blob/main/Modelo%203.jpeg" alt="Mejor Modelo">
 </p>
+
+#### MAPE (error) bajo de 6%, MAE de 341.5442 aceptable, considerando que las reservas bancarias están en millones de dólares, RMSE aceptable de 443.3595, ya que el RMSE expresa la verdadera diferencia entre el valor ajustado y el observado, es bajo considerando que la variable en estudio está en millones de dólares.
+
