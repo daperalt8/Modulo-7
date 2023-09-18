@@ -5,14 +5,7 @@
 
 ### LIBRERÍAS
 ------------
-library(openxlsx)
-
-library(highcharter)
-
-library(forecast)
-
-library(urca)
-
+library(openxlsx), library(highcharter), library(forecast), library(urca)
 ------------
 
 
