@@ -205,3 +205,12 @@ accuracy() y Box.test()
 
 #### Todos los test para contrastar el problema de raíz unitaria sugieren que existe un problema de estacionariedad.
 
+
+<p align="center">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot03.png" alt="RESERVAS BANCARIAS DEL ECUADOR, Visualización con HCHART">
+</p>
+
+> Gráfica de autocorrelación simple y parcial de la primera diferencia que me premitiran contruir mi modelo arima(p,d,q), el modelo debería tener un autorregresivo de orden 12 y solo valores en ar1,ar7 y ar12 y debería tener una media móvil de orden 13, sin embargo el mejor modelo resultó ser un arima de orden (12,1,0)
+
+### Mejor Modelo: Arima(ts_reservas,order = c(12,1,0))
+
