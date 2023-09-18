@@ -50,5 +50,5 @@ accuracy() y Box.test()
 > En la imagen se puede observar la señal de las reservas bancarias original, la parte estacional, la tendencial y la estocástica
 
 <p align="center">
-  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Reservas.png" alt="RESERVAS BANCARIAS DEL ECUADOR">
+  <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot.png" alt="RESERVAS BANCARIAS DEL ECUADOR, Visualización con HCHART">
 </p>
