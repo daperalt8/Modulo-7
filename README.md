@@ -255,7 +255,7 @@ accuracy() y Box.test()
   <img src="https://github.com/daperalt8/Modulo-7/blob/main/Autoarima.jpeg" alt="Mejor Modelo">
 </p>
 
-> El software sugiere realizar un modelo arima(12,1,1) sin embargo se puede visualizar la funcion de autocorrelación simple y parcial de los residuos del modelo autoarima que no se comportan como ruído blanco, algunas barritas están sobre las cotas
+> El software sugiere realizar un modelo sarima(0,1,1)(1,0,0)[12] sin embargo se puede visualizar la funcion de autocorrelación simple y parcial de los residuos del modelo autoarima que no se comportan como ruído blanco, algunas barritas están sobre las cotas
 
 <p align="center">
   <img src="https://github.com/daperalt8/Modulo-7/blob/main/Rplot08.png" alt="a">
